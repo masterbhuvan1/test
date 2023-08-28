@@ -1,0 +1,5 @@
+{{#user}}
+Name: Bhuvan Jain
+Skills: HTML, CSS, JS, Next.js
+Email: bhuvanjain212003@gmail.com
+{{/user}}
